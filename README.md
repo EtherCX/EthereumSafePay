@@ -8,9 +8,9 @@ Version 1.0 of the smart contract is nearing completion. The next step is to cre
 ## Features ##
 * Reversible transfers
   * "All transfers are final."
-  * Not any more! In fact, [All Your Transfer Are Belong To Us](https://github.com/ethereum/go-ethereum/releases/tag/v1.6.7). Just kidding, the funds are still yours until the recipient claims.
+  * Not any more! In fact, [All Your Transfer Are Belong To Us](https://github.com/ethereum/go-ethereum/releases/tag/v1.6.7). Just kidding, the funds are still yours until the recipient claims them.
 * Cancellable payments
-  * "Help! I just sent my life savings and my family's grocery money to address 0x0000000000000000000000000000000000000123, can someone please help me get it back?"
+  * "Help! I just sent my life savings and my family's grocery money to this address: [0x0000000000000000000000000000000000000123](https://etherscan.io/address/0x0000000000000000000000000000000000000123), can someone please help me get it back?"
   * We can't get back what's already lost but we can prevent it from happening like that ever again. Since no one owns an address like that, no one may claim the funds and you can have the payment cancelled at any time.
 * Refundable payments
   * "My client paid for his session a week in advance, but now he must cancel."

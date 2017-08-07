@@ -1,0 +1,73 @@
+{
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "isOwned",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "disown",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "isDisowned",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "destroy",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_price", "type": "uint256" }],
+      "name": "changePrice",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "newOwner", "type": "address" }],
+      "name": "grantOwnership",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "creationTime",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "takeOver",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "inputs": [{ "name": "initialPrice", "type": "uint256" }],
+      "payable": false,
+      "type": "constructor"
+    }
+  ]
+}

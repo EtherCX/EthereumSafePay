@@ -18,7 +18,7 @@ const EtherError = () => {
   console.log("Thee was a serious error establishing a connection to the blockchain.");
   return (
     <div>
-      <p>There was a serious effor establishing a connection to the blockchain. Do you have an Ethereum node installed?</p>
+      <p>There was a serious error establishing a connection to the blockchain. You may need to start your Ethereum node.</p>
     </div>
   )
 }

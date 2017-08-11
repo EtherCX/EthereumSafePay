@@ -2,6 +2,7 @@ pragma solidity ^0.4.13;
 
 import "./itmap.sol";
 
+
 /// @title Fundamental Contract
 /// @dev The Fundamental contract contains useful functions and modifiers for other contracts to use.
 contract Fundament {

@@ -5,6 +5,9 @@ import Helmet from 'react-helmet'
 
 import './index.css'
 
+/// This file is optional. It is used for parts of pages that are shared by every page,
+/// like headers & footers.
+
 const Header = () =>
   <div
     style={{

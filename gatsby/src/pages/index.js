@@ -31,10 +31,13 @@ const IndexPageNoWeb3 = () => {
       <div>
         <h1>Ethereum Safe Pay</h1>
         <p>Welcome Ethereum Safe Pay.</p>
-        { web3available ? (<EtherInterface></EtherInterface>) :
-          (<p>awww shucks!</p><EtherError></EtherError>)
+        {
+          web3available ?
+            <EtherInterface></EtherInterface> :
+            <div><p>awww shucks!</p><EtherError /></div>
         }
-      </div>);
+      </div>
+    );
 };
 
 const IndexPageWithWeb3 = () => {

@@ -17,8 +17,8 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "deploy": "",
     "build": "gatsby build --prefix-paths",
+    "postbuild": "rm -rf ../docs; mv public ../docs && git add ../docs",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1"

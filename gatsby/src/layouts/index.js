@@ -27,7 +27,7 @@ const Header = () =>
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          Ethereum SafePay
         </Link>
       </h1>
     </div>
@@ -36,10 +36,10 @@ const Header = () =>
 const TemplateWrapper = ({ children }) =>
   <div>
     <Helmet
-      title="Gatsby Default Starter"
+      title="Ethereum Safe Pay"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'description', content: 'Ethereum payments made safer' },
+        { name: 'keywords', content: 'payment, transfers, ethereum, ether' },
       ]}
     />
     <Header />

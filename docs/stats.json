@@ -1,12 +1,32 @@
 {
   "assetsByChunkName": {
+    "page-component---src-pages-pay-now-js": [
+      "page-component---src-pages-pay-now-js-48aab9027a2aa6f6d758.js",
+      "page-component---src-pages-pay-now-js-48aab9027a2aa6f6d758.js.map"
+    ],
+    "page-component---src-pages-refund-payment-js": [
+      "page-component---src-pages-refund-payment-js-48aab9027a2aa6f6d758.js",
+      "page-component---src-pages-refund-payment-js-48aab9027a2aa6f6d758.js.map"
+    ],
     "page-component---src-pages-index-js": [
-      "page-component---src-pages-index-js-86483a620a00600059be.js",
-      "page-component---src-pages-index-js-86483a620a00600059be.js.map"
+      "page-component---src-pages-index-js-e112bfb4bfad11640559.js",
+      "page-component---src-pages-index-js-e112bfb4bfad11640559.js.map"
+    ],
+    "path---pay-later": [
+      "path---pay-later-586c7e095e534a3909ec.js",
+      "path---pay-later-586c7e095e534a3909ec.js.map"
+    ],
+    "page-component---src-pages-pay-later-js": [
+      "page-component---src-pages-pay-later-js-48aab9027a2aa6f6d758.js",
+      "page-component---src-pages-pay-later-js-48aab9027a2aa6f6d758.js.map"
     ],
     "page-component---src-pages-404-js": [
-      "page-component---src-pages-404-js-f68e3df0986f36c07464.js",
-      "page-component---src-pages-404-js-f68e3df0986f36c07464.js.map"
+      "page-component---src-pages-404-js-16152632dd37fc30fd03.js",
+      "page-component---src-pages-404-js-16152632dd37fc30fd03.js.map"
+    ],
+    "path---cancel-payment": [
+      "path---cancel-payment-586c7e095e534a3909ec.js",
+      "path---cancel-payment-586c7e095e534a3909ec.js.map"
     ],
     "path---page-2": [
       "path---page-2-586c7e095e534a3909ec.js",
@@ -29,16 +49,28 @@
       "page-component---src-pages-page-2-js-48aab9027a2aa6f6d758.js.map"
     ],
     "app": [
-      "app-227d2daebbe3b4ad968b.js",
-      "app-227d2daebbe3b4ad968b.js.map"
+      "app-769b67da8af245ce6926.js",
+      "app-769b67da8af245ce6926.js.map"
+    ],
+    "page-component---src-pages-cancel-payment-js": [
+      "page-component---src-pages-cancel-payment-js-48aab9027a2aa6f6d758.js",
+      "page-component---src-pages-cancel-payment-js-48aab9027a2aa6f6d758.js.map"
+    ],
+    "path---pay-now": [
+      "path---pay-now-586c7e095e534a3909ec.js",
+      "path---pay-now-586c7e095e534a3909ec.js.map"
+    ],
+    "path---refund-payment": [
+      "path---refund-payment-586c7e095e534a3909ec.js",
+      "path---refund-payment-586c7e095e534a3909ec.js.map"
     ],
     "path---404": [
       "path---404-586c7e095e534a3909ec.js",
       "path---404-586c7e095e534a3909ec.js.map"
     ],
     "layout-component---index": [
-      "layout-component---index-f5d0f0eaa3675ec25b65.js",
-      "layout-component---index-f5d0f0eaa3675ec25b65.js.map"
+      "layout-component---index-aaf7807f579b190ca55b.js",
+      "layout-component---index-aaf7807f579b190ca55b.js.map"
     ]
   }
 }
